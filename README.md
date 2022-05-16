@@ -2,17 +2,17 @@ alx-pre_course
 <br>
   -0x01-git
   <br>
-    --bash
+    ---bash
     <br>
-      --alx
+      ----alx
       <br>
-      --school
+      ----school
       <br>
-    --c
+    ---c
     <br>
-      --c_is_fun.c
+      ----c_is_fun.c
       <br>
-    --README.md
+    ---README.md
     <br>
   -README.md
 
